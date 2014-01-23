@@ -18,5 +18,5 @@ This is by no means a secure way of knowing a user has logged into a system. I c
 ```
 sudo cp login-pushover/login-pushover.sh /etc/profile.d/ && sudo cp login-pushover/login-pushover.py /usr/local/bin/
 ```
-3. Edit the `/usr/local/bin/login-pushover.py` and add your Pushover API keys
-4. Done. Try and login to your machine and you should get a message pushed to your mobile device!
+3. Edit the `/usr/local/bin/login-pushover.py` file and add your Pushover API keys
+4. All done! Try and login to your machine and you should get a message pushed to your mobile device!
