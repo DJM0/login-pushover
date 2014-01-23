@@ -2,7 +2,7 @@
 
 Simple script to send a mobile notification using Pushover when a user logs into a Linux machine.
 
-This is by no means a secure way of knowing a user has logged into a system. I created this just to get a brief idea on was logging into one of my Linux boxes.
+This is by no means a secure way of knowing a user has logged into a system. I created this just to get a brief idea who and when someone was logging into one of my Linux boxes.
 
 ### Dependencies
 
